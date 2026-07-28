@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ANIMATED TYPING HEADER -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=750&lines=Hi+👋+I'm+Arjun+Chaudhry,+MBA;AI+Engineering+%26+Product+Leader;Agentic+AI+for+Finance+Ops;Workday,+Adaptive+Planning+%26+NetSuite;Enterprise+Integrations+%26+Multi-Agent+Systems" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=750&lines=Hi+👋+I'm+Arjun+Chaudhry,+MBA;AI+Engineering+%26+Product+Leader;Agentic+AI+for+Finance+Ops;Workday,+Adaptive+Planning+%26+NetSuite;Enterprise+Integrations+%26+Multi-Agent+Systems" />
 
 <br><br>
 
@@ -22,8 +22,6 @@
 - 🤖 **Core Focus**: Autonomous Multi-Agent Workflows & Model Context Protocol (MCP) Integrations.
 - 💼 **Domain Expertise**: **Workday Finance**, **Workday Adaptive Planning**, and **Oracle NetSuite**.
 - 🛡️ **Security & Controls**: Human-in-the-loop approvals, Zero-Trust MCP Execution & RBAC.
-- 📍 **Location**: Los Angeles Metropolitan Area, CA
-- ✉️ **Email**: `arjun.chaudhry@example.com`
 - 💼 **LinkedIn**: [linkedin.com/in/arjunchaudhary/](https://linkedin.com/in/arjunchaudhary/)
 
 ---
@@ -34,13 +32,9 @@
   <a href="https://linkedin.com/in/arjunchaudhary/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:arjun.chaudhry@example.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
   <a href="https://github.com/arjun-chaudhry" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <img src="https://img.shields.io/badge/Location-Los%20Angeles%2C%20CA-FF5722?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 </p>
 
 ---
@@ -66,7 +60,7 @@
     <td width="45%"><img src="https://img.shields.io/badge/Skill_Level-98%25-00F7FF?style=for-the-badge&logo=python&logoColor=black"/></td>
   </tr>
   <tr>
-    <td><b>💼 Workday Finance & Enterprise ERPs</b></td>
+    <td><b>💼 Workday Finance & Enterprise ERP</b></td>
     <td><img src="https://img.shields.io/badge/Skill_Level-92%25-00758F?style=for-the-badge&logo=oracle&logoColor=white"/></td>
   </tr>
   <tr>
@@ -133,11 +127,13 @@
 
 ---
 
-# 💡 Random Dev Quote
+# 💡 Dev Quote
 
 <div align="center">
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=synthwave)
+> *"The best way to predict the future is to invent it."*
+>
+> — **Alan Kay**
 
 </div>
 
