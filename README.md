@@ -1,73 +1,129 @@
 <div align="center">
 
-# Hi 👋 I'm Arjun Chaudhry
+<!-- DYNAMIC TYPING HEADER -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=32&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=750&lines=Hi+👋+I'm+Arjun+Chaudhry,+MBA;AI+Engineering+%26+Product+Leader;Agentic+AI+for+Finance+Ops;Workday,+Adaptive+Planning+%26+NetSuite;Enterprise+Integrations+%26+Multi-Agent+Systems" />
 
-### **AI Engineering & Product Leader • Agentic AI for Finance Ops**
+<br>
 
-### <font color="#4A90E2">Full Stack AI Systems & Enterprise ERP Leader</font>
-
-<br />
-
-## 🌐 Connect with Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/arjunchaudhary" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://x.com" target="_blank"><img src="https://img.shields.io/badge/X%20(TWITTER)-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-  <a href="https://instagram.com" target="_blank"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://discord.com" target="_blank"><img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
-  <a href="mailto:arjun.chaudhry@example.com"><img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-
-<br />
-
-## 💻 Tech Stack
-
-<!-- ICON GRID MATRIX -->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,fastapi,dotnet,cs,js,ts,html,css,react,nextjs,nodejs,express,postgres,redis,docker,aws,azure,git,github,vscode,postman,figma&perline=11" />
-  </a>
-</p>
-
-<!-- CUSTOM ENTERPRISE & AI TECH BADGES -->
-<p align="center">
-  <img src="https://img.shields.io/badge/AGENTIC%20AI-0078D4?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/WORKDAY%20FINANCE-005CB9?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/ORACLE%20NETSUITE-00758F?style=flat-square&logo=oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/ADAPTIVE%20PLANNING-FF9900?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/MICROSOFT%20AGENT%20FRAMEWORK-0078D4?style=flat-square&logo=microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/LITELLM-FF6F00?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/LANGCHAIN-121212?style=flat-square&logo=chainlink&logoColor=white" />
-  <img src="https://img.shields.io/badge/PGVECTOR-336791?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST%20%26%20GRAPHQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MBA%20STRATEGY-4A90E2?style=flat-square&logoColor=white" />
-</p>
-
-<br />
-
-## 📊 GitHub Analytics
-
-<!-- STREAK CARD MATCHING REFERENCE IMAGE -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_EXACT_GITHUB_USERNAME&theme=tokyonight&background=0D1117&border=30363D&stroke=30363D&ring=0077B5&fire=0077B5&currStreakNum=FFFFFF" width="85%" />
-</p>
-
-<br />
-
-## 📈 Contribution Graph
-
-<!-- BLUE LINE CONTRIBUTION GRAPH MATCHING REFERENCE IMAGE -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_EXACT_GITHUB_USERNAME&theme=react-dark&hide_border=true" width="95%" />
-</p>
-
-<br />
-
-## ✍️ Random Dev Quote
-
-<!-- RANDOM QUOTE BOX MATCHING REFERENCE IMAGE -->
-<p align="center">
-  <img src="https://readme-quotes.vercel.app/api?theme=dark&bg_color=0d1117&border_color=30363D&quote_color=7ee787&author_color=8b949e" width="85%" />
-</p>
+<!-- PROFILE VISITOR COUNTER -->
+<img src="https://komarev.com/ghpvc/?username=arjunchaudhary&label=Profile+Views&color=00f7ff&style=for-the-badge"/>
 
 </div>
+
+---
+
+# 👨‍💻 About Me
+
+<img align="right" width="340" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+
+### 🚀 AI Engineering & Product Leader | Finance Ops Specialist
+
+- 🎓 **Background**: MBA with extensive background in **Enterprise AI Architecture & Finance Operations**.
+- 🤖 **Core Focus**: Designing autonomous, governed multi-agent systems and Model Context Protocol (MCP) integrations.
+- 💼 **Domain Expertise**: **Workday Finance**, **Workday Adaptive Planning**, and **Oracle NetSuite**.
+- 🛡️ **Enterprise Security**: Human-in-the-loop approval workflows, zero-trust MCP tools, DLP policies, and RBAC controls.
+- 📍 **Location**: Los Angeles Metropolitan Area, CA
+- ✉️ **Email**: `arjun.chaudhry@example.com`
+- 💼 **LinkedIn**: [linkedin.com/in/arjunchaudhary/](https://linkedin.com/in/arjunchaudhary/)
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/arjunchaudhary/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:arjun.chaudhry@example.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/arjunchaudhary">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/Location-Los%20Angeles%2C%20CA-FF5722?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 💻 Tech Stack & Engineering Ecosystem
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,react,next,nodejs,fastapi,postgres,docker,aws,azure,git,github,vscode,linux,redis" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Microsoft_Agent_Framework-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Workday_Finance-005CB9?style=for-the-badge&logo=workday&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle_NetSuite-00758F?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adaptive_Planning-FF9900?style=for-the-badge&logo=analytics&logoColor=white" />
+  <img src="https://img.shields.io/badge/LiteLLM-FF6F00?style=for-the-badge&logo=lightning&logoColor=white" />
+  <img src="https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
+
+---
+
+# 📌 Featured Enterprise Projects
+
+| Project | Category | Description | Tech Stack |
+| :--- | :--- | :--- | :--- |
+| 🏢 **AgentStack Cloud** | AI Workspace | Provider-neutral workspace for creating, connecting, running, and governing business AI agents. | Next.js, FastAPI, MAF, Postgres, Docker |
+| 💰 **FinOps Recon Agent** | Finance Automation | Multi-agent automated reconciliation pipeline for Workday Finance and NetSuite general ledgers. | Python, LangChain, Workday RaaS, NetSuite API |
+| 📊 **Adaptive Planning RAG** | FP&A Analytics | Predictive financial forecast assistant for variance analysis and natural language reporting. | FastAPI, OpenAI, pgvector, React |
+| 🛡️ **MCP Governance Hub** | Security & Auth | Zero-trust tool execution framework with human-in-the-loop approval gates for risky operations. | Node.js, MCP Protocol, Redis, Vault |
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=arjunchaudhary&theme=tokyonight&column=7&margin-w=15&margin-h=15"/>
+
+</div>
+
+---
+
+# 📊 GitHub Analytics & Statistics
+
+<div align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=arjunchaudhary&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=arjunchaudhary&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjunchaudhary&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=arjunchaudhary&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 Domain Skill Proficiency
+
+```text
+Agentic AI & Multi-Agent Systems    ████████████████████ 98%
+Workday Finance & Enterprise ERPs   ██████████████████░░ 92%
+FastAPI, Python & Next.js Stack     ████████████████████ 96%
+MCP Integration & Governance        ██████████████████░░ 90%
+Product Strategy & Execution (MBA)  ████████████████████ 95%
