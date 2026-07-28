@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ANIMATED TYPING HEADER -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=750&lines=Hi+👋+I'm+Arjun+Chaudhry,+MBA;AI+Engineering+%26+Product+Leader;Agentic+AI+for+Finance+Ops;Workday,+Adaptive+Planning+%26+NetSuite;Enterprise+Integrations+%26+Multi-Agent+Systems" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=750&lines=Hi+👋+I'm+Arjun+Chaudhry;AI+Engineer+%26+Product+Leader;Agentic+AI+for+Finance+Ops;Workday+%26+Finance,+Adaptive+Planning+%26+NetSuite;ERP+Integrations+%26+Multi-Agent+Systems" />
 
 <br><br>
 
