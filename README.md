@@ -1,25 +1,27 @@
 <div align="center">
 
-<!-- DYNAMIC TYPING HEADER -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=32&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=750&lines=Hi+👋+I'm+Arjun+Chaudhry,+MBA;AI+Engineering+%26+Product+Leader;Agentic+AI+for+Finance+Ops;Workday,+Adaptive+Planning+%26+NetSuite;Enterprise+Integrations+%26+Multi-Agent+Systems" />
+<!-- DYNAMIC TYPING HEADER BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=200&section=header&text=Arjun%20Chaudhry,%20MBA&fontSize=42&fontAlignY=35&desc=AI%20Engineering%20%26%20Product%20Leader%20%7C%20Agentic%20AI%20for%20Finance%20Ops&descSize=18&descAlignY=60&stroke=0078D4" width="100%" />
 
-<br>
-
-<!-- PROFILE VISITOR COUNTER -->
-<img src="https://komarev.com/ghpvc/?username=arjunchaudhary&label=Profile+Views&color=00f7ff&style=for-the-badge"/>
+<!-- PROFILE VISITOR COUNTER & METRICS BADGES -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=arjunchaudhary&label=Profile+Views&color=00f7ff&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/followers/arjunchaudhary?label=Followers&style=for-the-badge&color=0078D4&logo=github"/>
+  <img src="https://img.shields.io/badge/Status-Available%20for%20Leadership%20%26%20Advisory-00F7FF?style=for-the-badge"/>
+</p>
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+# 👨‍💻 Executive Summary & About Me
 
-<img align="right" width="340" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+<img align="right" width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
 ### 🚀 AI Engineering & Product Leader | Finance Ops Specialist
 
-- 🎓 **Background**: MBA with extensive background in **Enterprise AI Architecture & Finance Operations**.
-- 🤖 **Core Focus**: Designing autonomous, governed multi-agent systems and Model Context Protocol (MCP) integrations.
+- 🎓 **Education**: **MBA Degree** with deep specialization in Enterprise AI Strategy & FP&A Systems.
+- 🤖 **Core Focus**: Architecting autonomous multi-agent systems and Model Context Protocol (MCP) tool integrations.
 - 💼 **Domain Expertise**: **Workday Finance**, **Workday Adaptive Planning**, and **Oracle NetSuite**.
 - 🛡️ **Enterprise Security**: Human-in-the-loop approval workflows, zero-trust MCP tools, DLP policies, and RBAC controls.
 - 📍 **Location**: Los Angeles Metropolitan Area, CA
@@ -52,7 +54,7 @@
 
 ---
 
-# 💻 Tech Stack & Engineering Ecosystem
+# 🛠️ Tech Stack & Engineering Ecosystem
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,ts,react,next,nodejs,fastapi,postgres,docker,aws,azure,git,github,vscode,linux,redis" />
@@ -69,41 +71,57 @@
 
 ---
 
+# 🎨 🔥 Domain Skill Proficiency (Redesigned Graphical Meters)
+
+<table width="100%">
+  <tr>
+    <td width="38%"><b>🤖 Agentic AI & Multi-Agent Systems</b></td>
+    <td width="52%"><img src="https://geps.dev/progress/98?color=00F7FF" width="100%"/></td>
+    <td width="10%" align="center"><b>98%</b></td>
+  </tr>
+  <tr>
+    <td width="38%"><b>💼 Workday Finance & Enterprise ERPs</b></td>
+    <td width="52%"><img src="https://geps.dev/progress/92?color=0078D4" width="100%"/></td>
+    <td width="10%" align="center"><b>92%</b></td>
+  </tr>
+  <tr>
+    <td width="38%"><b>⚡ FastAPI, Python & Next.js Architecture</b></td>
+    <td width="52%"><img src="https://geps.dev/progress/96?color=00F7FF" width="100%"/></td>
+    <td width="10%" align="center"><b>96%</b></td>
+  </tr>
+  <tr>
+    <td width="38%"><b>🛡️ MCP Integration & Governance Security</b></td>
+    <td width="52%"><img src="https://geps.dev/progress/90?color=0078D4" width="100%"/></td>
+    <td width="10%" align="center"><b>90%</b></td>
+  </tr>
+  <tr>
+    <td width="38%"><b>📈 Product Strategy & AI Roadmaps (MBA)</b></td>
+    <td width="52%"><img src="https://geps.dev/progress/95?color=00F7FF" width="100%"/></td>
+    <td width="10%" align="center"><b>95%</b></td>
+  </tr>
+</table>
+
+---
+
 # 📌 Featured Enterprise Projects
 
-| Project | Category | Description | Tech Stack |
+| Project | Category | Key Capabilities | Tech Stack |
 | :--- | :--- | :--- | :--- |
-| 🏢 **AgentStack Cloud** | AI Workspace | Provider-neutral workspace for creating, connecting, running, and governing business AI agents. | Next.js, FastAPI, MAF, Postgres, Docker |
+| 🏢 **AgentStack Cloud** | AI Workspace | Provider-neutral workspace for creating, connecting, and governing business AI agents with MCP tool integration. | Next.js, FastAPI, MAF, Postgres, Docker |
 | 💰 **FinOps Recon Agent** | Finance Automation | Multi-agent automated reconciliation pipeline for Workday Finance and NetSuite general ledgers. | Python, LangChain, Workday RaaS, NetSuite API |
 | 📊 **Adaptive Planning RAG** | FP&A Analytics | Predictive financial forecast assistant for variance analysis and natural language reporting. | FastAPI, OpenAI, pgvector, React |
 | 🛡️ **MCP Governance Hub** | Security & Auth | Zero-trust tool execution framework with human-in-the-loop approval gates for risky operations. | Node.js, MCP Protocol, Redis, Vault |
 
 ---
 
-# 🏆 GitHub Trophies
+# 📊 GitHub Analytics & Statistics (High-Reliability Version)
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=arjunchaudhary&theme=tokyonight&column=7&margin-w=15&margin-h=15"/>
-
-</div>
-
----
-
-# 📊 GitHub Analytics & Statistics
-
-<div align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=arjunchaudhary&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=arjunchaudhary&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjunchaudhary&layout=compact&theme=tokyonight&hide_border=true"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arjunchaudhary&show_icons=true&theme=tokyonight&hide_border=false" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjunchaudhary&layout=compact&theme=tokyonight&hide_border=false" width="48%" />
+</p>
 
 </div>
 
@@ -113,17 +131,16 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=arjunchaudhary&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=arjunchaudhary&theme=tokyo-night&hide_border=false" width="100%"/>
 
 </div>
 
 ---
 
-# 🔥 Domain Skill Proficiency
+<div align="center">
 
-```text
-Agentic AI & Multi-Agent Systems    ████████████████████ 98%
-Workday Finance & Enterprise ERPs   ██████████████████░░ 92%
-FastAPI, Python & Next.js Stack     ████████████████████ 96%
-MCP Integration & Governance        ██████████████████░░ 90%
-Product Strategy & Execution (MBA)  ████████████████████ 95%
+## ❤️ Thanks For Visiting
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=00F7FF&section=footer"/>
+
+</div>
