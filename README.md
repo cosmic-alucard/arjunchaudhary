@@ -1,112 +1,79 @@
-<!-- ANIMATED HEADER BANNER -->
+<!-- TOP HEADING & GREETING -->
+<h1 align="center">💫 Hey Everyone, I'm Arjun Chaudhry</h1>
+<h3 align="center">💻 Welcome to My GitHub Universe!</h3>
+
+<br/>
+
+<!-- TOP SPLIT SECTION: BIO + ANIMATED DEV GIF -->
+<table border="0">
+  <tr>
+    <td width="58%" valign="top">
+      <ul>
+        <li>💼 <b>AI Engineering & Product Leader</b> | MBA</li>
+        <li>🤖 <b>Building:</b> Agentic AI Workspaces & Autonomous Workflows</li>
+        <li>🏢 <b>Domain:</b> Workday Finance, NetSuite & Adaptive Planning</li>
+        <li>⚡ <b>Core Stack:</b> Python, FastAPI, Next.js, Microsoft Agent Framework</li>
+        <li>🤝 <b>Open to:</b> Enterprise AI Consulting & Technical Collaboration</li>
+        <li>🚀 <b>Mission:</b> Transforming Finance Operations with Governed AI</li>
+      </ul>
+      <br/>
+      <p>
+        <img src="https://komarev.com/ghpvc/?username=YOUR_EXACT_GITHUB_USERNAME&color=green&style=flat-square&label=visitors" alt="Profile Visitors" />
+      </p>
+      <p>
+        <a href="https://linkedin.com/in/arjunchaudhary/" target="_blank">
+          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+        </a>
+        <a href="mailto:arjun.chaudhry@example.com">
+          <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
+        </a>
+        <a href="https://github.com/YOUR_EXACT_GITHUB_USERNAME">
+          <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+        </a>
+        <a href="#">
+          <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" />
+        </a>
+      </p>
+    </td>
+    <td width="42%" align="center" valign="middle">
+      <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Developer Animation" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- GITHUB ACTIVITY GRAPH -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Arjun%20Chaudhry,%20MBA&fontSize=42&fontAlignY=38&desc=AI%20Engineering%20%26%20Product%20Leader%20%7C%20Agentic%20AI%20for%20Finance%20Ops&descSize=18&descAlignY=62&stroke=0078D4" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_EXACT_GITHUB_USERNAME&theme=react-dark&hide_border=true" width="100%" alt="Activity Graph" />
 </p>
 
+<br/>
+
+<!-- GITHUB STATS & TOP LANGUAGES GRID -->
 <p align="center">
-  <a href="https://linkedin.com/in/arjunchaudhary/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Arjun%20Chaudhry-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:arjun.chaudhry@example.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://github.com/YOUR_EXACT_GITHUB_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <img src="https://img.shields.io/badge/Location-Los%20Angeles%2C%20CA-FF5722?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_EXACT_GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_EXACT_GITHUB_USERNAME&layout=donut&theme=dark&hide_border=true" width="49%" />
 </p>
 
----
+<br/>
 
-## 📌 Executive Summary & Profile Overview
-
-I am an **AI Engineering & Product Leader** with an **MBA** background, specializing in building enterprise-grade **Agentic AI Systems** tailored for **Financial Operations (Finance Ops)**. 
-
-With deep domain expertise in **Workday Finance**, **Workday Adaptive Planning**, and **Oracle NetSuite**, I lead cross-functional engineering teams to architect autonomous AI agent workflows, Model Context Protocol (MCP) tool integrations, and secure enterprise financial pipelines.
-
----
-
-## 📊 Core Expertise & Skill Proficiency Graphs
-
-| Area of Expertise | Proficiency Level | Score |
-| :--- | :--- | :---: |
-| **Agentic AI & Multi-Agent Systems** | `████████████████████` | **98%** |
-| **Workday Finance & Enterprise ERPs** | `██████████████████░░` | **92%** |
-| **FastAPI, Python & Next.js Architecture**| `████████████████████` | **96%** |
-| **MCP Integration & Governance Security** | `██████████████████░░` | **90%** |
-| **Product Strategy & AI Roadmaps (MBA)** | `████████████████████` | **95%** |
-
----
-
-## 🛠️ Technology Stack & Ecosystem
-
-### 🤖 **AI & Agentic Frameworks**
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft_Agent_Framework-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white" />
-  <img src="https://img.shields.io/badge/LiteLLM-FF6F00?style=for-the-badge&logo=lightning&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
-</p>
-
-### 🏢 **Enterprise Systems & ERPs**
-<p>
-  <img src="https://img.shields.io/badge/Workday_Finance-005CB9?style=for-the-badge&logo=workday&logoColor=white" />
-  <img src="https://img.shields.io/badge/Oracle_NetSuite-00758F?style=for-the-badge&logo=oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/Adaptive_Planning-FF9900?style=for-the-badge&logo=analytics&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_&_GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
-</p>
-
-### ☁️ **Cloud, Databases & DevOps**
-<p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-</p>
-
----
-
-## 📈 Real-Time GitHub Analytics & Metrics
-
-<div align="center">
-
-### ⚡ **GitHub Performance Overview**
+<!-- GITHUB TROPHIES STRIP -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_EXACT_GITHUB_USERNAME&show_icons=true&theme=dracula&hide_border=false&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_EXACT_GITHUB_USERNAME&layout=compact&theme=dracula&hide_border=false" width="48%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_EXACT_GITHUB_USERNAME&theme=onedark&column=6&margin-w=15&no-frame=true&no-background=true" width="100%" alt="GitHub Trophies" />
 </p>
 
-### 🔥 **Contribution Activity & Streaks**
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_EXACT_GITHUB_USERNAME&theme=dracula&hide_border=false" width="98%" />
-</p>
+<br/>
 
-</div>
+<!-- FEATURED PROJECTS -->
+### 📂 Featured Solutions
 
----
-
-## 📂 Featured Enterprise Projects
-
-### 1. 🏢 **AgentStack Cloud (Agentic AI Workspace)**
-> *Provider-neutral platform for building, connecting, and governing business AI agents.*
-- **Features**: Multi-agent graph workflows, MCP security approvals, LiteLLM gateway, local Ollama execution.
-- **Tech Stack**: Next.js, FastAPI, Microsoft Agent Framework, PostgreSQL (`pgvector`), Docker.
-
-### 2. 💰 **FinOps Automated Reconciliation Pipeline**
-> *Autonomous multi-agent system cross-referencing Workday Finance & NetSuite records.*
-- **Features**: Reduced manual cycle time by 85%, automated anomaly flags, full execution audit trail.
-- **Tech Stack**: Python, LangChain, Workday RaaS, NetSuite RESTlets, Redis.
-
-### 3. 📊 **Adaptive Planning Financial RAG Assistant**
-> *AI Assistant for financial forecasting, variance analysis, and executive reporting.*
-- **Features**: Real-time natural language query interface for ERP financial metrics.
-- **Tech Stack**: FastAPI, OpenAI, pgvector, React.
+- 🏢 **AgentStack Cloud**: Enterprise-grade Agentic AI Workspace with MCP Connectors.
+- 💰 **FinOps Reconciliation Agent**: Automated reconciliation for Workday Finance & NetSuite.
+- 📊 **Adaptive Planning RAG**: Conversational AI assistant for FP&A forecasting.
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" width="100%" />
+  <i>"Building intelligence into every enterprise workflow."</i>
 </p>
