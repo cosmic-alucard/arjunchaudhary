@@ -6,7 +6,7 @@
 <br><br>
 
 <!-- PROFILE VISITOR COUNTER -->
-<img src="https://komarev.com/ghpvc/?username=arjunchaudhary&label=PROFILE+VIEWS&color=00f7ff&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=arjun-chaudhry&label=PROFILE+VIEWS&color=00f7ff&style=for-the-badge"/>
 
 </div>
 
@@ -14,7 +14,7 @@
 
 # 👨‍💻 About Me
 
-<img align="right" width="340" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+<img align="right" width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
 ### 🚀 AI Engineering & Product Leader | Finance Ops Specialist
 
@@ -37,7 +37,7 @@
   <a href="mailto:arjun.chaudhry@example.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/arjunchaudhary">
+  <a href="https://github.com/arjun-chaudhry" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <img src="https://img.shields.io/badge/Location-Los%20Angeles%2C%20CA-FF5722?style=for-the-badge&logo=googlemaps&logoColor=white"/>
@@ -49,35 +49,28 @@
 
 <br>
 
-<p>
-  <b>🤖 Agentic AI & Multi-Agent Frameworks</b> <i>(98%)</i><br>
-  <img src="https://img.shields.io/badge/Mastery-98%25-00F7FF?style=for-the-badge&logo=python&logoColor=black" />
-  <img src="https://geps.dev/progress/98?dangerColor=00f7ff&warningColor=00f7ff&successColor=00f7ff" width="60%" />
-</p>
-
-<p>
-  <b>💼 Workday Finance & Enterprise ERPs</b> <i>(92%)</i><br>
-  <img src="https://img.shields.io/badge/Mastery-92%25-00758F?style=for-the-badge&logo=oracle&logoColor=white" />
-  <img src="https://geps.dev/progress/92?dangerColor=00758F&warningColor=00758F&successColor=00758F" width="60%" />
-</p>
-
-<p>
-  <b>⚡ FastAPI, Python & Next.js Architecture</b> <i>(96%)</i><br>
-  <img src="https://img.shields.io/badge/Mastery-96%25-7928CA?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://geps.dev/progress/96?dangerColor=7928CA&warningColor=7928CA&successColor=7928CA" width="60%" />
-</p>
-
-<p>
-  <b>🛡️ MCP Integration & Governance Security</b> <i>(90%)</i><br>
-  <img src="https://img.shields.io/badge/Mastery-90%25-FF0080?style=for-the-badge&logo=shield&logoColor=white" />
-  <img src="https://geps.dev/progress/90?dangerColor=FF0080&warningColor=FF0080&successColor=FF0080" width="60%" />
-</p>
-
-<p>
-  <b>📈 Product Strategy & Execution (MBA)</b> <i>(95%)</i><br>
-  <img src="https://img.shields.io/badge/Mastery-95%25-FFB800?style=for-the-badge&logo=microsoftexcel&logoColor=black" />
-  <img src="https://geps.dev/progress/95?dangerColor=FFB800&warningColor=FFB800&successColor=FFB800" width="60%" />
-</p>
+<table width="100%">
+  <tr>
+    <td width="55%"><b>🤖 Agentic AI & Multi-Agent Frameworks</b></td>
+    <td width="45%"><img src="https://img.shields.io/badge/Skill_Level-98%25-00F7FF?style=for-the-badge&logo=python&logoColor=black"/></td>
+  </tr>
+  <tr>
+    <td><b>💼 Workday Finance & Enterprise ERPs</b></td>
+    <td><img src="https://img.shields.io/badge/Skill_Level-92%25-00758F?style=for-the-badge&logo=oracle&logoColor=white"/></td>
+  </tr>
+  <tr>
+    <td><b>⚡ FastAPI, Python & Next.js Stack</b></td>
+    <td><img src="https://img.shields.io/badge/Skill_Level-96%25-7928CA?style=for-the-badge&logo=fastapi&logoColor=white"/></td>
+  </tr>
+  <tr>
+    <td><b>🛡️ MCP Integration & Security Governance</b></td>
+    <td><img src="https://img.shields.io/badge/Skill_Level-90%25-FF0080?style=for-the-badge&logo=shield&logoColor=white"/></td>
+  </tr>
+  <tr>
+    <td><b>📈 Product Strategy & Execution (MBA)</b></td>
+    <td><img src="https://img.shields.io/badge/Skill_Level-95%25-FFB800?style=for-the-badge&logo=microsoft&logoColor=black"/></td>
+  </tr>
+</table>
 
 ---
 
@@ -112,7 +105,7 @@
 # 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=arjunchaudhary&theme=synthwave&column=7&margin-w=15&margin-h=15"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=arjun-chaudhry&theme=synthwave&column=7&margin-w=15&margin-h=15"/>
 </div>
 
 ---
@@ -121,15 +114,15 @@
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=arjunchaudhary&show_icons=true&theme=synthwave&hide_border=false"/>
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=arjunchaudhary&theme=synthwave&hide_border=false"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=arjun-chaudhry&show_icons=true&theme=synthwave&hide_border=false"/>
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=arjun-chaudhry&theme=synthwave&hide_border=false"/>
 
 </div>
 
 <br>
 
 <div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjunchaudhary&layout=compact&theme=synthwave&hide_border=false"/>
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjun-chaudhry&layout=compact&theme=synthwave&hide_border=false"/>
 </div>
 
 ---
@@ -138,7 +131,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=arjunchaudhary&theme=react-dark&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=arjun-chaudhry&theme=react-dark&hide_border=true"/>
 
 </div>
 
