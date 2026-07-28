@@ -45,6 +45,17 @@
 
 ---
 
+# 🏆 Badges & Verified Achievements
+
+<p align="center">
+  <img src="https://img.shields.io/badge/GitHub_Member-Active_Contributor-00F7FF?style=for-the-badge&logo=github&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Enterprise_Architect-Verified-00758F?style=for-the-badge&logo=microsoft&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AI_Systems_Leader-Active-7928CA?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Commits-Active_Streak-FF0080?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
+
+---
+
 # 🔥 Domain Skill Proficiency
 
 <br>
@@ -102,32 +113,17 @@
 
 ---
 
-# 🏆 GitHub Trophies
+# 📊 Live Activity & Statistics
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=arjun-chaudhry&theme=synthwave&column=7&margin-w=15&margin-h=15"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=arjun-chaudhry&theme=synthwave&hide_border=false" width="80%" />
+
 </div>
 
 ---
 
-# 📊 Live Analytics & Statistics
-
-<div align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=arjun-chaudhry&show_icons=true&theme=synthwave&hide_border=false"/>
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=arjun-chaudhry&theme=synthwave&hide_border=false"/>
-
-</div>
-
-<br>
-
-<div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjun-chaudhry&layout=compact&theme=synthwave&hide_border=false"/>
-</div>
-
----
-
-# 📈 Activity Graph
+# 📈 Contribution Activity Graph
 
 <div align="center">
 
