@@ -4,14 +4,14 @@
 <div align="center">
 
 <!-- ANIMATED TYPING TEXT -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&multiline=false&random=false&width=750&height=60&lines=Hi+👋+I'm+Arjun+Chaudhry,+MBA;AI+Engineering+%26+Product+Leader+🚀;Agentic+AI+for+Finance+Ops+🤖;Workday+%7C+Adaptive+Planning+%7C+NetSuite+💼;Enterprise+Multi-Agent+Systems+🛡️" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=750&lines=Hi+👋+I'm+Arjun+Chaudhry,+MBA;AI+Engineering+%26+Product+Leader+🚀;Agentic+AI+for+Finance+Ops+🤖;Workday+%7C+Adaptive+Planning+%7C+NetSuite+💼;Enterprise+Multi-Agent+Systems+🛡️" />
 
 <br>
 
-<!-- VISITOR COUNTER + FOLLOWERS -->
+<!-- VISITOR COUNTER -->
 <img src="https://komarev.com/ghpvc/?username=arjun-chaudhry&label=👁️+PROFILE+VIEWS&color=00f7ff&style=for-the-badge"/>
 &nbsp;
-<img src="https://img.shields.io/github/followers/arjun-chaudhry?label=👥+FOLLOWERS&style=for-the-badge&color=7928CA&labelColor=0d1117"/>
+<img src="https://img.shields.io/github/followers/arjun-chaudhry?label=👥+Followers&style=for-the-badge&color=7928CA"/>
 
 </div>
 
@@ -23,20 +23,18 @@
 
 ### 🚀 AI Engineering & Product Leader
 
-- 🎓 **Degree**: MBA — Enterprise AI & Finance Operations
-- 🤖 **Specialization**: Agentic AI, Multi-Agent Orchestration & MCP Integrations
-- 💼 **ERP Expertise**: Workday Finance, Adaptive Planning & Oracle NetSuite  
-- 🛡️ **Governance**: Zero-Trust MCP Execution, Human-in-the-loop Approvals & RBAC
-- 🌎 **Location**: Los Angeles Metropolitan Area, CA
+- 🎓 **MBA** — Enterprise AI Architecture & Finance Ops
+- 🤖 **Focus**: Agentic AI & Multi-Agent Orchestration
+- 💼 **ERPs**: Workday Finance, Adaptive Planning, NetSuite
+- 🛡️ **Governance**: Zero-Trust MCP, RBAC, Human Approvals
+- 📍 **Location**: Los Angeles Metropolitan Area, CA
 - ✉️ **Email**: [arjun.chaudhry@example.com](mailto:arjun.chaudhry@example.com)
 - 🔗 **LinkedIn**: [linkedin.com/in/arjunchaudhary](https://linkedin.com/in/arjunchaudhary/)
-- 💡 **Currently Building**: Enterprise Agentic AI Workspace Platform
+- 🔨 **Building**: Enterprise Agentic AI Workspace Platform
 
 </td>
 <td width="45%" align="center" valign="top">
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding gif"/>
-
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="coding gif"/>
 </td>
 </tr>
 </table>
@@ -48,9 +46,9 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Arjun%20Chaudhry-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arjunchaudhary/)
-[![Gmail](https://img.shields.io/badge/Gmail-arjun.chaudhry-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arjun.chaudhry@example.com)
+[![Gmail](https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arjun.chaudhry@example.com)
 [![GitHub](https://img.shields.io/badge/GitHub-arjun--chaudhry-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arjun-chaudhry)
-[![Location](https://img.shields.io/badge/📍-Los%20Angeles%2C%20CA-FF5722?style=for-the-badge&logoColor=white)](#)
+[![Location](https://img.shields.io/badge/📍_Los%20Angeles-CA%2C%20USA-FF5722?style=for-the-badge)](https://linkedin.com/in/arjunchaudhary/)
 
 </div>
 
@@ -60,8 +58,8 @@
 
 <div align="center">
 
-![AI Leader](https://img.shields.io/badge/🤖_AI_Systems_Leader-Active-00F7FF?style=for-the-badge&labelColor=0d1117)
-![Enterprise Architect](https://img.shields.io/badge/🏢_Enterprise_Architect-Verified-00758F?style=for-the-badge&labelColor=0d1117)
+![AI Leader](https://img.shields.io/badge/🤖_Agentic_AI_Leader-Expert-00F7FF?style=for-the-badge&labelColor=0d1117)
+![ERP Expert](https://img.shields.io/badge/🏢_Enterprise_ERP-Specialist-005CB9?style=for-the-badge&labelColor=0d1117)
 ![MCP Expert](https://img.shields.io/badge/🔌_MCP_Integration-Expert-7928CA?style=for-the-badge&labelColor=0d1117)
 ![Finance Ops](https://img.shields.io/badge/💼_Finance_Ops-Specialist-FF0080?style=for-the-badge&labelColor=0d1117)
 ![MBA](https://img.shields.io/badge/🎓_MBA-Graduate-FFB800?style=for-the-badge&labelColor=0d1117)
@@ -75,13 +73,25 @@
 
 <div align="center">
 
-| Skill Domain | Proficiency | Level |
-|:---|:---:|:---:|
-| 🤖 Agentic AI & Multi-Agent Frameworks | `████████████████████` | ![98%](https://img.shields.io/badge/98%25-Expert-00F7FF?style=flat-square) |
-| 💼 Workday Finance & Enterprise ERPs | `██████████████████░░` | ![92%](https://img.shields.io/badge/92%25-Advanced-00758F?style=flat-square) |
-| ⚡ FastAPI, Python & Next.js Stack | `████████████████████` | ![96%](https://img.shields.io/badge/96%25-Expert-7928CA?style=flat-square) |
-| 🛡️ MCP Integration & Security Governance | `██████████████████░░` | ![90%](https://img.shields.io/badge/90%25-Advanced-FF0080?style=flat-square) |
-| 📈 Product Strategy & Execution (MBA) | `████████████████████` | ![95%](https://img.shields.io/badge/95%25-Expert-FFB800?style=flat-square) |
+### 🤖 Agentic AI & Multi-Agent Frameworks
+![](https://img.shields.io/badge/█████████████████████-98%25-00F7FF?style=for-the-badge&labelColor=0d1117)
+![Expert](https://img.shields.io/badge/EXPERT-⭐⭐⭐⭐⭐-00F7FF?style=flat-square)
+
+### 💼 Workday Finance & Enterprise ERPs
+![](https://img.shields.io/badge/███████████████████░░-92%25-005CB9?style=for-the-badge&labelColor=0d1117)
+![Advanced](https://img.shields.io/badge/ADVANCED-⭐⭐⭐⭐⭐-005CB9?style=flat-square)
+
+### ⚡ FastAPI · Python · Next.js Architecture
+![](https://img.shields.io/badge/████████████████████░-96%25-7928CA?style=for-the-badge&labelColor=0d1117)
+![Expert](https://img.shields.io/badge/EXPERT-⭐⭐⭐⭐⭐-7928CA?style=flat-square)
+
+### 🛡️ MCP Integration & Security Governance
+![](https://img.shields.io/badge/██████████████████░░░-90%25-FF0080?style=for-the-badge&labelColor=0d1117)
+![Advanced](https://img.shields.io/badge/ADVANCED-⭐⭐⭐⭐⭐-FF0080?style=flat-square)
+
+### 📈 Product Strategy & Execution — MBA
+![](https://img.shields.io/badge/████████████████████░-95%25-FFB800?style=for-the-badge&labelColor=0d1117)
+![Expert](https://img.shields.io/badge/EXPERT-⭐⭐⭐⭐⭐-FFB800?style=flat-square)
 
 </div>
 
@@ -118,17 +128,17 @@
   <tr>
     <td width="50%" valign="top">
       <h3>🏢 AgentStack Cloud</h3>
-      <b>Category:</b> AI Agent Workspace<br>
-      <b>Description:</b> Provider-neutral platform for creating, connecting, running, and governing enterprise AI agents with full MCP governance.<br><br>
-      <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js"/> 
+      <b>Category:</b> AI Agent Workspace<br><br>
+      Provider-neutral platform for creating, connecting, running, and governing enterprise AI agents with full MCP governance and audit trails.<br><br>
+      <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js"/>
       <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
       <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
     </td>
     <td width="50%" valign="top">
       <h3>💰 FinOps Reconciliation Agent</h3>
-      <b>Category:</b> Finance Automation<br>
-      <b>Description:</b> Multi-agent automated reconciliation pipeline cross-referencing Workday Finance & NetSuite general ledgers. Reduces cycle time by <b>85%</b>.<br><br>
+      <b>Category:</b> Finance Automation<br><br>
+      Multi-agent pipeline for Workday Finance & NetSuite ledger reconciliation. Reduces manual cycle time by <b>85%</b> with full audit logs.<br><br>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
       <img src="https://img.shields.io/badge/LangChain-121212?style=flat-square&logo=chainlink&logoColor=white"/>
       <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
@@ -137,44 +147,32 @@
   <tr>
     <td width="50%" valign="top">
       <h3>📊 Adaptive Planning RAG Assistant</h3>
-      <b>Category:</b> FP&A Analytics<br>
-      <b>Description:</b> Conversational AI assistant for financial forecasting, variance analysis, and natural language executive reporting using pgvector RAG.<br><br>
+      <b>Category:</b> FP&A Analytics<br><br>
+      Conversational AI for financial forecasting, variance analysis, and executive reporting using pgvector RAG on Workday data.<br><br>
       <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
       <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
       <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
     </td>
     <td width="50%" valign="top">
       <h3>🛡️ MCP Governance Hub</h3>
-      <b>Category:</b> Security & Compliance<br>
-      <b>Description:</b> Zero-trust tool execution framework with human-in-the-loop approval gates, audit trails, and policy-based controls for enterprise AI agents.<br><br>
+      <b>Category:</b> Security & Compliance<br><br>
+      Zero-trust tool execution with human-in-the-loop approval gates, DLP policies, and complete audit trails for enterprise AI agents.<br><br>
       <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white"/>
       <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Vault-FFEC6E?style=flat-square&logo=vault&logoColor=black"/>
+      <img src="https://img.shields.io/badge/HashiCorp_Vault-FFEC6E?style=flat-square&logo=vault&logoColor=black"/>
     </td>
   </tr>
 </table>
 
 ---
 
-# 🏆 GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=arjun-chaudhry&theme=radical&no-frame=false&no-bg=false&margin-w=8&column=4&row=2"/>
-</div>
-
----
-
-# 📊 GitHub Activity & Statistics
+# 📊 GitHub Live Activity
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=arjun-chaudhry&show_icons=true&theme=radical&hide_border=false&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=arjun-chaudhry&theme=radical&hide_border=false" />
+<!-- STREAK STATS - MOST RELIABLE -->
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=arjun-chaudhry&theme=radical&hide_border=false&stroke=00F7FF&ring=7928CA&fire=FF0080"/>
 
-</div>
-
-<div align="center">
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjun-chaudhry&layout=donut&theme=radical&hide_border=false"/>
 </div>
 
 ---
@@ -182,12 +180,14 @@
 # 📈 Contribution Activity Graph
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=arjun-chaudhry&theme=redical&hide_border=false&area=true"/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=arjun-chaudhry&theme=react-dark&hide_border=false&area=true&color=00F7FF&line=7928CA&point=FF0080"/>
+
 </div>
 
 ---
 
-# 💡 Random Dev Quote
+# 💡 Dev Quote of the Day
 
 <div align="center">
 
@@ -199,10 +199,11 @@
 
 <div align="center">
 
-### 🤝 Let's Build Intelligent Enterprise AI Together!
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50"> 
-<em><b>Open to collaborations, advisory roles & enterprise AI consulting.</b></em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40">
+&nbsp;
+<b>Open to collaborations, advisory roles & enterprise AI consulting</b>
+&nbsp;
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40">
 
 </div>
 
