@@ -72,7 +72,7 @@
     <td><img src="https://img.shields.io/badge/Skill_Level-92%25-FF0080?style=for-the-badge&logo=shield&logoColor=white"/></td>
   </tr>
   <tr>
-    <td><b>📈 Product Strategy & Execution (MBA)</b></td>
+    <td><b>📈 Product Strategy & Execution </b></td>
     <td><img src="https://img.shields.io/badge/Skill_Level-95%25-FFB800?style=for-the-badge&logo=microsoft&logoColor=black"/></td>
   </tr>
 </table>
