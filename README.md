@@ -1,109 +1,112 @@
-<div align="center">
+<!-- ANIMATED HEADER BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Arjun%20Chaudhry,%20MBA&fontSize=42&fontAlignY=38&desc=AI%20Engineering%20%26%20Product%20Leader%20%7C%20Agentic%20AI%20for%20Finance%20Ops&descSize=18&descAlignY=62&stroke=0078D4" width="100%" />
+</p>
 
-# 🚀 Arjun Chaudhry, MBA
-### **AI Engineering & Product Leader | Agentic AI for Finance Ops**
-📍 *Los Angeles Metropolitan Area*
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Arjun%20Chaudhry-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arjunchaudhary/)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arjun.chaudhry@example.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arjunchaudhary)
-[![Location](https://img.shields.io/badge/Location-Los%20Angeles%2C%20CA-FF5722?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
-
-</div>
+<p align="center">
+  <a href="https://linkedin.com/in/arjunchaudhary/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Arjun%20Chaudhry-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:arjun.chaudhry@example.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/YOUR_EXACT_GITHUB_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <img src="https://img.shields.io/badge/Location-Los%20Angeles%2C%20CA-FF5722?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
+</p>
 
 ---
 
 ## 📌 Executive Summary & Profile Overview
 
-I am an **AI Engineering & Product Leader** with an **MBA** background, bridging the gap between cutting-edge **Agentic AI systems** and **Enterprise Financial Operations (Finance Ops)**. 
+I am an **AI Engineering & Product Leader** with an **MBA** background, specializing in building enterprise-grade **Agentic AI Systems** tailored for **Financial Operations (Finance Ops)**. 
 
-With deep domain expertise in major ERP ecosystems like **Workday Finance**, **Workday Adaptive Planning**, and **Oracle NetSuite**, I specialize in architecting autonomous AI agents, multi-agent orchestrations, and Model Context Protocol (MCP) integrations that streamline financial forecasting, automated reconciliation, compliance, and enterprise data flows.
+With deep domain expertise in **Workday Finance**, **Workday Adaptive Planning**, and **Oracle NetSuite**, I lead cross-functional engineering teams to architect autonomous AI agent workflows, Model Context Protocol (MCP) tool integrations, and secure enterprise financial pipelines.
 
 ---
 
-## 💡 Key Expertise & Focus Areas
+## 📊 Core Expertise & Skill Proficiency Graphs
 
-- 🤖 **Agentic AI & Multi-Agent Architecture**: Designing governed, resilient AI workforces using Microsoft Agent Framework, AutoGen, and LiteLLM Gateways with human-in-the-loop approval gates.
-- 💼 **Finance Operations & ERP Systems**: Deep integrations across Workday Finance, Adaptive Planning, NetSuite, SAP, and custom financial pipelines.
-- 🔌 **Enterprise Integration & Governance**: Auditable Model Context Protocol (MCP) connectors, zero-trust tool execution, DLP policies, and RBAC security.
-- 📈 **Product Strategy & Leadership**: Scaling products from concept to market, freemium SaaS strategies, ROI-focused AI adoption, and cross-functional team leadership.
+| Area of Expertise | Proficiency Level | Score |
+| :--- | :--- | :---: |
+| **Agentic AI & Multi-Agent Systems** | `████████████████████` | **98%** |
+| **Workday Finance & Enterprise ERPs** | `██████████████████░░` | **92%** |
+| **FastAPI, Python & Next.js Architecture**| `████████████████████` | **96%** |
+| **MCP Integration & Governance Security** | `██████████████████░░` | **90%** |
+| **Product Strategy & AI Roadmaps (MBA)** | `████████████████████` | **95%** |
 
 ---
 
 ## 🛠️ Technology Stack & Ecosystem
 
-### **AI & Agentic Frameworks**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Microsoft Agent Framework](https://img.shields.io/badge/Microsoft_Agent_Framework-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
-![LiteLLM](https://img.shields.io/badge/LiteLLM-FF6F00?style=for-the-badge&logo=lightning&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama_Local_LLMs-000000?style=for-the-badge&logo=ollama&logoColor=white)
+### 🤖 **AI & Agentic Frameworks**
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_Agent_Framework-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/LiteLLM-FF6F00?style=for-the-badge&logo=lightning&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
+</p>
 
-### **Enterprise Systems & ERPs**
-![Workday](https://img.shields.io/badge/Workday_Finance-005CB9?style=for-the-badge&logo=workday&logoColor=white)
-![NetSuite](https://img.shields.io/badge/Oracle_NetSuite-00758F?style=for-the-badge&logo=oracle&logoColor=white)
-![Adaptive Planning](https://img.shields.io/badge/Adaptive_Planning-FF9900?style=for-the-badge&logo=analytics&logoColor=white)
-![REST & GraphQL](https://img.shields.io/badge/REST_&_GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+### 🏢 **Enterprise Systems & ERPs**
+<p>
+  <img src="https://img.shields.io/badge/Workday_Finance-005CB9?style=for-the-badge&logo=workday&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle_NetSuite-00758F?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adaptive_Planning-FF9900?style=for-the-badge&logo=analytics&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_&_GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+</p>
 
-### **Cloud, Data & Infrastructure**
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![pgvector](https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+### ☁️ **Cloud, Databases & DevOps**
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+</p>
 
 ---
 
-## 📊 Live GitHub Analytics & Performance Graphs
+## 📈 Real-Time GitHub Analytics & Metrics
 
 <div align="center">
 
-### ⚡ **GitHub Activity & Achievements**
+### ⚡ **GitHub Performance Overview**
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=arjunchaudhary&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjunchaudhary&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_EXACT_GITHUB_USERNAME&show_icons=true&theme=dracula&hide_border=false&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_EXACT_GITHUB_USERNAME&layout=compact&theme=dracula&hide_border=false" width="48%" />
 </p>
 
-### 📈 **Commit Streak & Activity Tracker**
+### 🔥 **Contribution Activity & Streaks**
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arjunchaudhary&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_EXACT_GITHUB_USERNAME&theme=dracula&hide_border=false" width="98%" />
 </p>
 
 </div>
 
 ---
 
-## 📂 Featured Enterprise Solutions & Projects
+## 📂 Featured Enterprise Projects
 
-### 1. 🏢 **AgentStack Cloud (Enterprise Agentic AI Workspace)**
-- **Description**: Provider-neutral workspace for creating, connecting, running, and governing AI agents with built-in MCP connectors for enterprise ERPs (Workday, NetSuite).
-- **Highlights**: Features Human-in-the-Loop approvals for high-risk financial transfers, LiteLLM gateway integration, and BYOK/Local model execution.
-- **Tech Stack**: Next.js, FastAPI, Microsoft Agent Framework, PostgreSQL (pgvector), Docker.
+### 1. 🏢 **AgentStack Cloud (Agentic AI Workspace)**
+> *Provider-neutral platform for building, connecting, and governing business AI agents.*
+- **Features**: Multi-agent graph workflows, MCP security approvals, LiteLLM gateway, local Ollama execution.
+- **Tech Stack**: Next.js, FastAPI, Microsoft Agent Framework, PostgreSQL (`pgvector`), Docker.
 
-### 2. 💰 **FinOps Automated Reconciliation Agent**
-- **Description**: Multi-agent pipeline that cross-references general ledger entries in Workday Finance with NetSuite invoice payloads and bank feeds.
-- **Highlights**: Reduced manual reconciliation cycle time by 85% with auditable trace logs and anomaly detection.
-- **Tech Stack**: Python, LangChain, NetSuite RESTlet API, Workday RaaS, Redis.
+### 2. 💰 **FinOps Automated Reconciliation Pipeline**
+> *Autonomous multi-agent system cross-referencing Workday Finance & NetSuite records.*
+- **Features**: Reduced manual cycle time by 85%, automated anomaly flags, full execution audit trail.
+- **Tech Stack**: Python, LangChain, Workday RaaS, NetSuite RESTlets, Redis.
 
-### 3. 📊 **Predictive Adaptive Planning AI Assistant**
-- **Description**: Conversational RAG assistant built on top of Workday Adaptive Planning documentation and proprietary FP&A datasets.
-- **Highlights**: Enables finance leaders to query dynamic forecast variances and generate automated executive summaries.
-- **Tech Stack**: FastAPI, OpenAI, pgvector, Streamlit/React.
-
----
-
-## 🤝 Connect & Collaborate
-
-I am always open to discussing **Agentic AI Architecture**, **Enterprise Product Strategy**, **Finance Ops Automations**, or **Advisory Roles**.
-
-- 💼 **LinkedIn**: [linkedin.com/in/arjunchaudhary](https://linkedin.com/in/arjunchaudhary/)
-- 📍 **Location**: Los Angeles Metropolitan Area, CA
-- ✉️ **Email**: `arjun.chaudhry@example.com`
-
-<div align="center">
+### 3. 📊 **Adaptive Planning Financial RAG Assistant**
+> *AI Assistant for financial forecasting, variance analysis, and executive reporting.*
+- **Features**: Real-time natural language query interface for ERP financial metrics.
+- **Tech Stack**: FastAPI, OpenAI, pgvector, React.
 
 ---
-*“Transforming Enterprise Operations Through Intelligent, Governed AI Systems.”*
 
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" width="100%" />
+</p>
