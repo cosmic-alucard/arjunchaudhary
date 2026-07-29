@@ -16,7 +16,7 @@
 
 <img align="right" width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
-### 🚀 AI Engineering & Product Leader | Finance Ops Specialist
+### 🚀 AI Engineer & Product Leader | Finance Ops Specialist
 
 - 🎓 **Background**: MBA specializing in **Enterprise AI Architecture & Finance Operations**.
 - 🤖 **Core Focus**: Multilevel AI Agents & Model Context Protocol (MCP) Integrations.
