@@ -12,7 +12,7 @@
 
 ---
 
-# 👨‍💻 About Me
+# 👨💻 About Me
 
 <img align="right" width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
@@ -112,8 +112,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=arjun-chaudhry&show_icons=true&theme=synthwave&hide_border=false&count_private=true" width="80%" />
 </div>
-
-
 
 ---
 
