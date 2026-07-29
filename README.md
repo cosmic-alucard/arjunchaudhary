@@ -109,9 +109,14 @@
 
 # 📊 Live Activity & Statistics
 
+
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arjun-chaudhry&show_icons=true&theme=synthwave&hide_border=false&count_private=true" width="80%" />
+
+<img src="https://streak-stats.demolab.com/?user=arjun-chaudhry&theme=synthwave&hide_border=false" width="80%" />
+
 </div>
+
 
 ---
 
